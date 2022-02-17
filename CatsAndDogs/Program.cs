@@ -11,11 +11,11 @@ namespace CatsAndDogs
 
             if (userChoice == "CAT")
             {
-                Console.WriteLine("You are a home-lover.");
+                Console.WriteLine("You are a home-lover.");       //Cat lover
             }
             else if (userChoice == "Dog")
             {    
-                Console.WriteLine("You are a partygoer.");
+                Console.WriteLine("You are a partygoer.");       //Dog lover
             }
             else
             {
